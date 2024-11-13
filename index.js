@@ -11,4 +11,4 @@ for (let i = 0; i < 17; i++) {
    a = x;
 
 }
-////
+///implement fernabacce no using for loop
